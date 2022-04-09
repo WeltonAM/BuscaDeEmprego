@@ -35,6 +35,12 @@ Depois mais este comando e verifique aviso de 'SUCESSO':
 npm run dev
 ```
 
-Abra uma página do navegador com: `localhost:3000/`
+Abra uma página do navegador com: `localhost:3000`
+
 
 E me chama pra trabalhar na tua empresa :smile:
+
+
+## :tv: Dá uma olhada
+
+[Video demonstrativo](https://www.linkedin.com/feed/update/urn:li:activity:6918405507246362624/)
