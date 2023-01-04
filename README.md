@@ -1,10 +1,7 @@
 # Job finder
 
 
-## 🚀 As Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
+## 🚀 Technologies used:
 - JavaScript
 - NodeJS
 - Express
@@ -15,32 +12,27 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Bootstrap
 - HTML
 
-## 💻 Sobre o Projeto
+## 💻 About this project:
+This project was developed in JavaScrtipt Udemy Couse with Node.Js given by the teacher [Matheus Battisti](https://github.com/matheusbattisti/).
 
-Este projeto foi desenvolvido no Curso JavaScript do básico ao avançado com Node.JS, com o teacher [Matheus Battisti](https://github.com/matheusbattisti/).
+Job Finder is a guide searched web app to include jobs opportunities.
 
-Job Finder é uma guia de presquisa e inclusão de vagas de emprego para desenvolvedores. 
+## :eyeglasses: To a complete experience:
 
-## :eyeglasses: Para uma experiência completa
-
-Instale o 'npm' com o comando abaixo:
-
+Install the dependencies with this command:
 ```
 npm install
 ```
 
-Depois mais este comando e verifique aviso de 'SUCESSO':
-
+After executing this and check the 'SUCCESS' warning:
 ```
 npm run dev
 ```
 
-Abra uma página do navegador com: `localhost:3000`
+Open the page: `localhost:3000`
 
+Now call me to work at your company :smile:
 
-E me chama pra trabalhar na tua empresa :smile:
+## :tv: See more:
 
-
-## :tv: Dá uma olhada
-
-[Video demonstrativo](https://www.linkedin.com/feed/update/urn:li:activity:6918405507246362624/)
+[Demonstrative video](https://www.linkedin.com/feed/update/urn:li:activity:6918405507246362624/)
